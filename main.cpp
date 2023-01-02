@@ -2,7 +2,7 @@
 
 Program:            Project for CPP
 Objective:          To validate credit card and perform transactions and transformation
-Authors:            Sharad Sharma, Serena Dangi, Anish Regmi
+Authors:            Sharad Sharma
 Date:               2022/04/25
 Syntax Errors:      None
 Logical Errors:     Problem while storing balance without registering the card along with balance first
